@@ -39,6 +39,20 @@
       <p><a href="https://github.com/mnenracom/mnenrabiz-releases">Открыть публичный репозиторий →</a></p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>МНЕНРАКРОЙ</h3>
+      <p>Локальная Windows-программа для оформления заказов на мебельные фасады, расчёта MDF/HPL, создания клиентских PDF и построения HPL-раскроя.</p>
+      <ul>
+        <li>Помогает вести заказы, клиентов, сотрудников, материалы и кромки.</li>
+        <li>Рассчитывает размеры деталей MDF и HPL-пластика.</li>
+        <li>Строит HPL-раскрой для листовых материалов и формирует PDF для клиента и карты раскроя.</li>
+        <li>Работает локально: данные хранятся на компьютере пользователя.</li>
+      </ul>
+      <p><strong>Статус:</strong> 0.1.0 Alpha 1.</p>
+      <p><a href="https://github.com/mnenracom/mnenrakroy-releases">Открыть публичный репозиторий →</a></p>
+    </td>
+  </tr>
 </table>
 
 ## Как строится работа над продуктом
@@ -53,6 +67,7 @@
 - [GitHub: @mnenracom](https://github.com/mnenracom)
 - [МНЕНРАФОТО — публичные материалы и загрузки](https://github.com/mnenracom/mnenrafoto-releases)
 - [МНЕНРАБИЗНЕС — публичные материалы и загрузки](https://github.com/mnenracom/mnenrabiz-releases)
+- [МНЕНРАКРОЙ — публичные материалы и загрузки](https://github.com/mnenracom/mnenrakroy-releases)
 
 ---
 
