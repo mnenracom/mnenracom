@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">МНЕНРАСОФТ — практические программы и независимые игры</title>
+  <desc id="desc">Светлый технический баннер с названием МНЕНРАСОФТ, сеткой и геометрическими элементами.</desc>
+  <defs>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#d0d7de" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" fill="#f6f8fa"/>
+  <rect width="1200" height="300" fill="url(#grid)" opacity=".72"/>
+  <path d="M0 233H360L474 119H1200" fill="none" stroke="#1f6feb" stroke-width="3"/>
+  <path d="M760 0V92L852 184H1200" fill="none" stroke="#8250df" stroke-width="2" opacity=".55"/>
+  <circle cx="474" cy="119" r="11" fill="#1f6feb"/>
+  <circle cx="852" cy="184" r="8" fill="#8250df"/>
+  <rect x="72" y="64" width="80" height="80" rx="10" fill="#1f6feb"/>
+  <path d="M94 121V86h9l15 22V86h10v35h-9l-15-22v22z" fill="#fff"/>
+  <text x="182" y="103" fill="#1f2328" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" letter-spacing="2">МНЕНРАСОФТ</text>
+  <text x="185" y="142" fill="#57606a" font-family="Arial, Helvetica, sans-serif" font-size="21" letter-spacing=".8">ПРАКТИЧЕСКИЕ ПРОГРАММЫ · НЕЗАВИСИМЫЕ ИГРЫ</text>
+  <text x="74" y="258" fill="#57606a" font-family="Arial, Helvetica, sans-serif" font-size="16">IDEA → PRODUCT → RELEASE</text>
+</svg>
