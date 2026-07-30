@@ -8,7 +8,7 @@
 
 <sub>Independent product developer building practical Windows software and browser games.</sub>
 
-**[Открыть интерактивную витрину продуктов →](https://mnenracom.github.io/mnenracom/)**
+[![Открыть интерактивную витрину продуктов](assets/showcase-cta.svg)](https://mnenracom.github.io/mnenracom/)
 
 ## Три продукта. Один подход.
 

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="96" viewBox="0 0 600 96" role="img" aria-labelledby="title desc">
+  <title id="title">Открыть интерактивную витрину продуктов</title>
+  <desc id="desc">Переход к интерактивной витрине продуктов МНЕНРАФОТО, МНЕНРАБИЗНЕС и МНЕНРАКРОЙ.</desc>
+  <rect width="600" height="96" rx="18" fill="#2563eb"/>
+  <rect x="1" y="1" width="598" height="94" rx="17" fill="none" stroke="#93c5fd" stroke-width="2"/>
+  <rect x="28" y="23" width="6" height="50" rx="3" fill="#dbeafe"/>
+  <text x="54" y="45" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="700" letter-spacing="-.4">Открыть интерактивную витрину</text>
+  <text x="54" y="70" fill="#dbeafe" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing=".75">МНЕНРАФОТО · МНЕНРАБИЗНЕС · МНЕНРАКРОЙ</text>
+  <circle cx="550" cy="48" r="23" fill="#1d4ed8" stroke="#bfdbfe" stroke-width="2"/>
+  <text x="550" y="56" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="27" font-weight="700" text-anchor="middle">↗</text>
+</svg>
