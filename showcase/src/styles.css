@@ -808,6 +808,14 @@ kbd {
   color: #fff;
 }
 
+.pipeline-step.is-active i {
+  color: #fff;
+}
+
+.pipeline-step.is-active i::before {
+  box-shadow: 0 0 0 3px var(--blue);
+}
+
 .pipeline-step span {
   font: 700 10px/1 ui-monospace, "SFMono-Regular", Consolas, monospace;
   opacity: 0.72;
