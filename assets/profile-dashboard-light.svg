@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="title desc">
+  <title id="title">Anton Suslov — Independent Product Developer, МНЕНРАСОФТ</title>
+  <desc id="desc">Светлая продуктовая панель с именем разработчика, брендом МНЕНРАСОФТ, тремя публичными продуктами и циклом от идеи до релиза.</desc>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#d8dee8" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="400" rx="24" fill="#f6f8fb"/>
+  <rect x="1" y="1" width="1278" height="398" rx="23" fill="none" stroke="#d8dee8" stroke-width="2"/>
+  <rect x="808" y="1" width="471" height="398" rx="23" fill="url(#grid)" opacity=".44"/>
+
+  <rect x="44" y="42" width="8" height="46" rx="4" fill="#2563eb"/>
+  <text x="72" y="61" fill="#1f2937" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="2.4">МНЕНРАСОФТ</text>
+  <text x="72" y="87" fill="#64748b" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="1.6">PRODUCT SYSTEM / 2026</text>
+
+  <text x="44" y="164" fill="#111827" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="750" letter-spacing="1.4">ANTON SUSLOV</text>
+  <text x="47" y="207" fill="#2563eb" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="650" letter-spacing="2.1">INDEPENDENT PRODUCT DEVELOPER</text>
+  <text x="47" y="251" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="19">Практические Windows-программы и независимые браузерные игры</text>
+
+  <rect x="44" y="298" width="480" height="58" rx="12" fill="#ffffff" stroke="#cbd5e1"/>
+  <circle cx="70" cy="327" r="6" fill="#0f766e"/>
+  <text x="91" y="333" fill="#1f2937" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="650" letter-spacing=".8">IDEA → PRODUCT → RELEASE</text>
+  <text x="554" y="333" fill="#64748b" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">@mnenracom</text>
+
+  <rect x="840" y="34" width="396" height="140" rx="18" fill="#ffffff" stroke="#cbd5e1"/>
+  <rect x="840" y="34" width="8" height="140" rx="4" fill="#2563eb"/>
+  <text x="873" y="69" fill="#64748b" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1.8">PUBLIC PORTFOLIO</text>
+  <text x="873" y="137" fill="#111827" font-family="Segoe UI, Arial, sans-serif" font-size="66" font-weight="750">03</text>
+  <text x="968" y="119" fill="#1f2937" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">PUBLIC</text>
+  <text x="968" y="145" fill="#1f2937" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700">PRODUCTS</text>
+
+  <rect x="840" y="194" width="396" height="96" rx="18" fill="#eef6ff" stroke="#b8d3fa"/>
+  <text x="868" y="226" fill="#2563eb" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.6">FULL-CYCLE DEVELOPMENT</text>
+  <text x="868" y="260" fill="#1f2937" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="650">Research · UX · Build · Test · Ship</text>
+
+  <rect x="840" y="310" width="190" height="54" rx="14" fill="#e8f7f3" stroke="#b8ded5"/>
+  <circle cx="868" cy="337" r="6" fill="#0f766e"/>
+  <text x="887" y="343" fill="#115e59" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">LOCAL-FIRST</text>
+  <rect x="1046" y="310" width="190" height="54" rx="14" fill="#f3effc" stroke="#d8c9f2"/>
+  <circle cx="1074" cy="337" r="6" fill="#7c3aed"/>
+  <text x="1093" y="343" fill="#6d28d9" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">PUBLIC RELEASES</text>
+</svg>
